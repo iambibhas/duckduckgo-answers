@@ -1,0 +1,13 @@
+{
+    "name":"DuckDuckGo Answers (unofficial)",
+    "version":0.2,
+    "developer": {
+        "name":"Bibhas D.",
+        "url":"http://bibhas.in"
+    },
+    "description":"Get fast and accurate answers for any query from the DuckDuckGo search engine.",
+    "icons": {
+        "128":"/logo128.png",
+        "60":"/logo60.png"
+    }
+}
