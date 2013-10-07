@@ -1,7 +1,6 @@
-Building-Blocks
+DuckDuckGo Answers
 ===============
 
-Reusable components for Firefox OS
+This is a Firefox OS app built using Building Blocks for searching answers on DuckDuckGo.
 
-'style' and 'style_unstable' folders contain all Building Blocks from [gaia's repo](https://github.com/mozilla-b2g/gaia).
-Feel free to use them, although we are using the word 'unstable' :) 
+This is not built by the DuckDuckGo Team.
