@@ -10,7 +10,7 @@
         "128": "logo128.png",
         "60": "logo60.png"
     },
-    "launch_path": "/index.html",
+    "launch_path": "/duckduckgo-answers/index.html",
     "default_locale": "en",
     "type": "web"
 }
