@@ -1,6 +1,5 @@
 {
     "name":"DuckDuckGo Answers (unofficial)",
-    "version":0.2,
     "developer": {
         "name":"Bibhas D.",
         "url":"http://bibhas.in"
@@ -9,5 +8,8 @@
     "icons": {
         "128":"/logo128.png",
         "60":"/logo60.png"
-    }
+    },
+    "launch_path": "/index.html",
+    "default_locale": "en",
+    "type": "web"
 }
